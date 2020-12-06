@@ -1,4 +1,5 @@
 # red-herring-translator
+Very nice translator.
 
 ## Install
 ```bash
